@@ -1,0 +1,834 @@
+[
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000042.jpg",
+    "best_score": 0.8795438408851624,
+    "best_box": [
+      480,
+      239,
+      560,
+      298
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000073.jpg",
+    "best_score": -0.244747132062912,
+    "best_box": [
+      353,
+      320,
+      423,
+      400
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000074.jpg",
+    "best_score": 0.9983877539634705,
+    "best_box": [
+      240,
+      319,
+      320,
+      372
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000133.jpg",
+    "best_score": 0.5959717035293579,
+    "best_box": [
+      480,
+      0,
+      560,
+      60
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000136.jpg",
+    "best_score": -0.12427005171775818,
+    "best_box": [
+      375,
+      280,
+      437,
+      327
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000139.jpg",
+    "best_score": -0.634841799736023,
+    "best_box": [
+      0,
+      0,
+      80,
+      53
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000143.jpg",
+    "best_score": 0.4112797975540161,
+    "best_box": [
+      150,
+      125,
+      225,
+      187
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000164.jpg",
+    "best_score": -0.1242799460887909,
+    "best_box": [
+      320,
+      240,
+      400,
+      300
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000192.jpg",
+    "best_score": 0.9846085906028748,
+    "best_box": [
+      400,
+      360,
+      480,
+      420
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000196.jpg",
+    "best_score": -0.554258406162262,
+    "best_box": [
+      400,
+      0,
+      480,
+      60
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000208.jpg",
+    "best_score": -0.12427935004234314,
+    "best_box": [
+      0,
+      120,
+      80,
+      180
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000241.jpg",
+    "best_score": -0.4617835581302643,
+    "best_box": [
+      300,
+      320,
+      360,
+      400
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000257.jpg",
+    "best_score": 0.9846631288528442,
+    "best_box": [
+      240,
+      360,
+      320,
+      420
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000283.jpg",
+    "best_score": -0.8644431233406067,
+    "best_box": [
+      53,
+      560,
+      107,
+      640
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000285.jpg",
+    "best_score": 0.9412426948547363,
+    "best_box": [
+      146,
+      320,
+      219,
+      400
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000294.jpg",
+    "best_score": -0.5095494389533997,
+    "best_box": [
+      160,
+      53,
+      240,
+      106
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000328.jpg",
+    "best_score": 0.2447926104068756,
+    "best_box": [
+      240,
+      429,
+      320,
+      491
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000338.jpg",
+    "best_score": -0.4113210439682007,
+    "best_box": [
+      320,
+      204,
+      400,
+      245
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000357.jpg",
+    "best_score": -0.18520063161849976,
+    "best_box": [
+      560,
+      136,
+      640,
+      163
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000359.jpg",
+    "best_score": -0.5960671305656433,
+    "best_box": [
+      375,
+      41,
+      437,
+      83
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000360.jpg",
+    "best_score": -5.27501106262207e-06,
+    "best_box": [
+      62,
+      281,
+      125,
+      328
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000387.jpg",
+    "best_score": -0.41133514046669006,
+    "best_box": [
+      400,
+      120,
+      480,
+      180
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000395.jpg",
+    "best_score": -0.5960909128189087,
+    "best_box": [
+      160,
+      290,
+      240,
+      362
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000397.jpg",
+    "best_score": 0.3580246567726135,
+    "best_box": [
+      320,
+      420,
+      400,
+      480
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000400.jpg",
+    "best_score": 0.9941717982292175,
+    "best_box": [
+      478,
+      160,
+      558,
+      240
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000415.jpg",
+    "best_score": 0.0623665452003479,
+    "best_box": [
+      44,
+      400,
+      89,
+      480
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000428.jpg",
+    "best_score": 0.18523770570755005,
+    "best_box": [
+      400,
+      45,
+      480,
+      90
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000459.jpg",
+    "best_score": -0.554307758808136,
+    "best_box": [
+      387,
+      320,
+      451,
+      400
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000472.jpg",
+    "best_score": -0.808853268623352,
+    "best_box": [
+      400,
+      84,
+      480,
+      113
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000474.jpg",
+    "best_score": 0.9716324806213379,
+    "best_box": [
+      41,
+      250,
+      83,
+      312
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000486.jpg",
+    "best_score": -0.46183061599731445,
+    "best_box": [
+      320,
+      160,
+      400,
+      213
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000488.jpg",
+    "best_score": 0.7863138318061829,
+    "best_box": [
+      80,
+      304,
+      160,
+      355
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000502.jpg",
+    "best_score": 0.12428823113441467,
+    "best_box": [
+      480,
+      160,
+      560,
+      213
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000520.jpg",
+    "best_score": -0.6706866025924683,
+    "best_box": [
+      480,
+      240,
+      560,
+      300
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000536.jpg",
+    "best_score": -0.062371402978897095,
+    "best_box": [
+      0,
+      252,
+      56,
+      294
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000544.jpg",
+    "best_score": -0.06237822771072388,
+    "best_box": [
+      160,
+      373,
+      240,
+      427
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000564.jpg",
+    "best_score": 0.5542788505554199,
+    "best_box": [
+      455,
+      240,
+      520,
+      320
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000569.jpg",
+    "best_score": -0.18523350358009338,
+    "best_box": [
+      160,
+      300,
+      240,
+      360
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000589.jpg",
+    "best_score": -0.41132616996765137,
+    "best_box": [
+      320,
+      300,
+      400,
+      360
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000590.jpg",
+    "best_score": -0.3581845462322235,
+    "best_box": [
+      102,
+      250,
+      153,
+      312
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000599.jpg",
+    "best_score": 0.46191397309303284,
+    "best_box": [
+      320,
+      152,
+      400,
+      203
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000623.jpg",
+    "best_score": -0.06237414479255676,
+    "best_box": [
+      93,
+      187,
+      140,
+      250
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000626.jpg",
+    "best_score": -0.8294337391853333,
+    "best_box": [
+      160,
+      360,
+      240,
+      420
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000632.jpg",
+    "best_score": -0.18523505330085754,
+    "best_box": [
+      400,
+      0,
+      480,
+      60
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000636.jpg",
+    "best_score": -0.46179163455963135,
+    "best_box": [
+      420,
+      560,
+      480,
+      640
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000641.jpg",
+    "best_score": -5.751848220825195e-06,
+    "best_box": [
+      560,
+      267,
+      640,
+      321
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000661.jpg",
+    "best_score": 0.46182751655578613,
+    "best_box": [
+      62,
+      281,
+      125,
+      328
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000675.jpg",
+    "best_score": -0.12428015470504761,
+    "best_box": [
+      480,
+      420,
+      560,
+      480
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000692.jpg",
+    "best_score": 0.24474769830703735,
+    "best_box": [
+      480,
+      60,
+      560,
+      120
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000693.jpg",
+    "best_score": 0.3025507926940918,
+    "best_box": [
+      160,
+      214,
+      240,
+      267
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000699.jpg",
+    "best_score": -0.5959100723266602,
+    "best_box": [
+      50,
+      133,
+      100,
+      166
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000711.jpg",
+    "best_score": -0.35805824398994446,
+    "best_box": [
+      560,
+      120,
+      640,
+      180
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000715.jpg",
+    "best_score": -0.12428510189056396,
+    "best_box": [
+      0,
+      0,
+      80,
+      60
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000724.jpg",
+    "best_score": 0.18520066142082214,
+    "best_box": [
+      46,
+      250,
+      93,
+      312
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000730.jpg",
+    "best_score": -0.554336667060852,
+    "best_box": [
+      80,
+      160,
+      160,
+      214
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000757.jpg",
+    "best_score": -0.244747132062912,
+    "best_box": [
+      80,
+      213,
+      160,
+      266
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000761.jpg",
+    "best_score": -0.24475866556167603,
+    "best_box": [
+      0,
+      420,
+      80,
+      480
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000764.jpg",
+    "best_score": 0.1242835521697998,
+    "best_box": [
+      375,
+      128,
+      437,
+      171
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000772.jpg",
+    "best_score": 0.5095905661582947,
+    "best_box": [
+      0,
+      318,
+      80,
+      371
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000775.jpg",
+    "best_score": -0.5542184114456177,
+    "best_box": [
+      560,
+      320,
+      640,
+      373
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000776.jpg",
+    "best_score": -7.12275505065918e-06,
+    "best_box": [
+      53,
+      240,
+      107,
+      320
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000785.jpg",
+    "best_score": -0.5543476343154907,
+    "best_box": [
+      560,
+      371,
+      640,
+      425
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000802.jpg",
+    "best_score": -0.9591352343559265,
+    "best_box": [
+      0,
+      240,
+      53,
+      320
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  },
+  {
+    "image": "/workspace/LVLM-LP/data/COCO/images/val2014/COCO_val2014_000000000810.jpg",
+    "best_score": -0.12425091862678528,
+    "best_box": [
+      480,
+      60,
+      560,
+      120
+    ],
+    "text": "Is there a dog? Answer Yes or No.",
+    "grid": 8,
+    "n_cells": 64
+  }
+]

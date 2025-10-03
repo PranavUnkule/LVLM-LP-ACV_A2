@@ -1,0 +1,21 @@
+https://vizwiz.cs.colorado.edu/VizWiz_final/images/train.zip
+https://vizwiz.cs.colorado.edu/VizWiz_final/images/val.zip
+https://vizwiz.cs.colorado.edu/VizWiz_final/vqa_data/Annotations.zip
+http://images.cocodataset.org/zips/train2014.zip
+http://images.cocodataset.org/zips/val2014.zip
+
+
+python prepare_vizwiz.py \
+  --repo-root . \
+  --train-zip train.zip \
+  --val-zip val.zip \
+  --anno-zip Annotations.zip \
+  --force
+
+python prepare_coco_pope.py \
+  --repo-root . \
+  --train2014-zip train2014.zip \
+  --val2014-zip   val2014.zip
+
+python A2Task01.py \
+  --backend qwen3b --out_dir runs_qwen3b --num_samples 4000 --num_chunks 2

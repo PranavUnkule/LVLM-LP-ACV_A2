@@ -1,10 +1,10 @@
 dataset_roots = {
-    "VizWiz": "/data/VizWiz/",
-    "MMSafety": "/data/qinyu/data/MM-SafetyBench/",
-    "MAD": "/data/coco/",   # MADBench uses COCO images
-    "MathVista": "/data/MathVista/",
-    "POPE": "/data/coco/",  # POPE uses COCO images
-    "ImageNet": "/data/ImageNet/"
+    "VizWiz": "/workspace/LVLM-LP/data/VizWiz/",
+    "MMSafety": "/workspace/LVLM-LP/data/qinyu/data/MM-SafetyBench/",
+    "MAD": "/workspace/LVLM-LP/data/coco/",   # MADBench uses COCO images
+    "MathVista": "/workspace/LVLM-LP/data/MathVista/",
+    "POPE": "/workspace/LVLM-LP/data/coco/",  # POPE uses COCO images
+    "ImageNet": "/workspace/LVLM-LP/data/ImageNet/"
 }
 
 

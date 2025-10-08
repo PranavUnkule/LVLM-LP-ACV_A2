@@ -1,0 +1,28 @@
+{
+  "npz": "runs_qwen7b/7b-instruct_vizwiz/7b-instruct_vizwiz_logits_2160.npz",
+  "n_total": 2000,
+  "n_train": 1600,
+  "n_val": 400,
+  "pos_rate_in_val": 0.7225,
+  "safe_is_one": true,
+  "topk": 4096,
+  "probe": {
+    "max_iter": 500,
+    "n_jobs": 64
+  },
+  "thresholds": {
+    "f1_opt": {
+      "f1": 0.9081802999984169,
+      "threshold": 0.3640879988670349
+    },
+    "youden_j_opt": {
+      "J": 0.6710932385657147,
+      "threshold": 0.8515380620956421
+    },
+    "target_FA": {
+      "FA_target": 0.1,
+      "threshold": 0.9998811483383179,
+      "FA_at_threshold": 0.0
+    }
+  }
+}
